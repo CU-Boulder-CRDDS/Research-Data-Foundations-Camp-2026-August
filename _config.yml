@@ -21,8 +21,8 @@
 title: Research Data Foundations Camp
 # email: crdds@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This GitHub website contains materials associated with the August 2025 CRDDS Research Data Foundations Camp.
-baseurl: "/Research-Data-Foundations-Camp-2025-August/" # the subpath of your site, e.g. /blog
+  This GitHub website contains materials associated with the March 2026 CRDDS Research Data Foundations Camp.
+baseurl: "/Research-Data-Foundations-Camp-2026-March/" # the subpath of your site, e.g. /blog
 url: "https://CU-Boulder-CRDDS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
