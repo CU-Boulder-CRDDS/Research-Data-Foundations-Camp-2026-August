@@ -20,7 +20,7 @@ For more on what microcredentials are, and why you should consider earning one, 
 
 ## Final Project
 
-**The final project will be due by September 1st, 2025; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
+**The final project will be due by April 1st, 2026; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
 
 Final projects will consist of a portfolio of work hosted on a GitHub repository (you are also encouraged to publish your portfolio materials via GitHub pages; see below). Completed microcredential project portfolios must include the following elements:
 
