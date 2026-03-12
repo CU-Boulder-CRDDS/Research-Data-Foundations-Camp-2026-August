@@ -18,8 +18,8 @@ _Slides and other workshop content not yet finalized._
 | 10:30-11:15| [Data Discovery and Licensing](content/data-discovery.html)| Liz Novosel
 | 11:15-12:00| [Data Ethics](content/data-ethics.html)| Katerina Allmendinger|
 | 12:00-1:00| Lunch|
-| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Aditya Ranganath|
-| 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Ellery Galvin| 
+| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Ellery Galvin|
+| 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Aditya Ranganath| 
  
 ### Wednesday, March 18th
 
@@ -28,8 +28,8 @@ _Slides and other workshop content not yet finalized._
 | 10:00-11:00| [Data Management](content/data-management.html)|Matthew Murray|
 | 11:00-12:00| Microcredential discussion and work time
 | 12:00-1:00 | Lunch|
-| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Aditya Ranganath|
-| 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Ellery Galvin| 
+| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Ellery Galvin|
+| 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Aditya Ranganath| 
 
 ### Thursday, March 19th
 
