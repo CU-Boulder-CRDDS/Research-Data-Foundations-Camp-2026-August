@@ -13,10 +13,9 @@ This page: [bit.ly/dcF25py](https://bit.ly/dcF25py)
 
 ____
 ### Presenter
-Phil White <a href='https://github.com/whitephil' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Earth, Environment & Geospatial Librarian  
-University of Colorado Boulder Libraries  
-[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
+Ellery Galvin (she/hers)\
+PhD Student, Applied Mathematics\
+Statistics Specialist, Center for Research Data and Digital Scholarship  \
 
 - [Install Anaconda](https://docs.anaconda.com/anaconda/install/) following the directions [Installation instructions](data-analysis-in-python/Installation) closely.
 - Please create a [GitHub account](https://github.com/) right now if you have yet to do so.

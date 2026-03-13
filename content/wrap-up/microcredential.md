@@ -31,11 +31,11 @@ Final projects will consist of a portfolio of work hosted on a GitHub repository
 * Please comment your code so that other researchers (or your future self!) can easily follow and understand your script.
 * Please remember to cite the data set you use in your analysis, as well as other relevant contextual information in the repository's Readme.  
 
-3. **Data set Evaluation**: A brief (250-500 words) evaluation of a data set with respect to one of the FAIR principles, and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
+3. **Data set Evaluation**: A brief (250-500 words) evaluation of a data set with respect to one of the [FAIR principles](https://www.go-fair.org/fair-principles/), and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
 
 ## Working sessions
 
-There will be a dedicated working session on the third day our Research Data Camp for you to make progress towards earning the Microcredential; our hope is that by using this time productively, you will be able to get a good start towards completing the Microcredential requirements. Camp instructors will be available during these working sessions to assist you on Microcredential-related tasks. 
+There will be a dedicated working session on the second day of the Research Data Foundations Camp for you to make progress towards earning the Microcredential; our hope is that by using this time productively, you will be able to get a good start towards completing the Microcredential requirements. Camp instructors will be available during these working sessions to assist you on Microcredential-related tasks. 
 
 ## Making Your Microcredential GitHub Repository
 
@@ -48,6 +48,8 @@ However, you are **not** required to publish your code via GitHub Pages. It is p
 ## What You Will Receive
 
 If you complete and submit the microcredential project, you will receive a digital certificate that officially certifies your participation in the Research Data Foundations Camp, and your completion of the associated project. This certificate will include a link to the repository containing your project materials; this will allow those viewing the microcredential (for example, future employers, supervisors, or collaborators) to verify your familiarity with the Camp's core competencies.
+
+You will also have the opportunity to have CU Boulder [add a verfied version](https://docs.google.com/forms/d/e/1FAIpQLSeofzRfB-TEbtTqetK1d7uMdBDgakXuPVdwYMq3Ak-BjXTXlA/viewform) of your micro-credential to your [ORCID profile](https://orcid.org/).
 
 ## Examples
 
@@ -68,7 +70,7 @@ To give you a sense of the nature and scope of a possible project, consider the 
 
 ## Help
 
-If you need help you can attend CRDDS' Interdisciplinary Consultation Hours on [Tuesday, August 26th](https://calendar.colorado.edu/event/interdisciplinary-data-consulting-hours-tuesdays) from 12:00-1:00pm (in-person or virtual) or [Thursday, August 28th](https://calendar.colorado.edu/event/interdisciplinary-data-consulting-hours-thursdays) from 1:00-2:00pm (virtual only). If you plan to attend either of these sessions, please complete the registration forms linked above.
+If you need help you can attend CRDDS' Interdisciplinary Consultation Hours on [Tuesday, March 24th](https://calendar.colorado.edu/event/interdisciplinary-data-consulting-hours-tuesdays) from 12:00-1:00pm (in-person or virtual) or [Thursday, March 26th](https://calendar.colorado.edu/event/interdisciplinary-data-consulting-hours-thursdays) from 1:00-2:00pm (virtual only). If you plan to attend either of these sessions, please complete the registration forms linked above.
 
 ## Turn in Your Final Portfolio Project!
 Use this [Google Survey link](https://docs.google.com/forms/d/e/1FAIpQLScg1zEMAX7CqgimJc53fyBroUagLvjjLPkNMfdR5-8nx0OhcA/viewform?usp=share_link) to turn in your project. In addition to filling out the form, please also email us with a link to the GitHub page or repository that hosts your project materials. 

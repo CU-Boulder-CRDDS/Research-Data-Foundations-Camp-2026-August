@@ -11,10 +11,6 @@ Welcome to this Introductory workshop on Git and GitHub Pages. During the worksh
 
 ____
 ### Presenter
-Mohal Khandelwal\
-Cloud Analyst, Research Computing\
-Center for Research Data & Digital Scholarship
-
 Matthew Murray (he/they)\
 Data Librarian\
 Center for Research Data & Digital Scholarship

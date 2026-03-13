@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-footer_content: <a href="https://github.com/CU-Boulder-CRDDS/Research-Data-Foundations-Camp-2025-August/" target="_blank">View this workshop in GitHub</a>
+footer_content: <a href="https://github.com/CU-Boulder-CRDDS/Research-Data-Foundations-Camp-2026-March/" target="_blank">View this workshop in GitHub</a>
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -13,10 +13,6 @@ Liz Novosel\
 Computer Science, Mathematics and Social Sciences Librarian\
 University of Colorado Boulder Libraries
 
-Chris Pusateri\
-E-Resources Acquisitions & Licensing Librarian\
-University of Colorado Boulder Libraries
-
 ## Session Synopsis
 
 This presentation will review strategies and resources that will help you to discover secondary research that is relevant to your research interests and needs. 

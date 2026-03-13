@@ -8,8 +8,8 @@ nav_order: 1.506
 # Data Management
 
 ## Instructor
-Aditya (Adi) Ranganath (he/his)\
-Data Librarian\
+Matthew Murray (he/they)
+Data Librarian
 Center for Research Data & Digital Scholarship
 
 ## Introduction

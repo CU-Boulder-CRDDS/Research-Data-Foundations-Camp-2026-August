@@ -53,18 +53,19 @@ University of Colorado Boulder Libraries\
 Melissa Cantrell\
 Scholarly Communication Librarian\
 Assistant Professor\
-University of Colorado Boulder Libraries
+University of Colorado Boulder Libraries\
+[Melissa.Cantrell@Colorado.edu](mailto:Melissa.Cantrell@Colorado.edu)
 
 Ellery Galvin (she/hers)\
 PhD Student, Applied Mathematics\
 Statistics Consultant, Center for Research Data & Digital Scholarship\
-University of Colorado Boulder Libraries
+University of Colorado Boulder Libraries\
 [elga3498@colorado.edu](mailto:elga3498@colorado.edu)
 
 Matthew Murray (he/they)\
 Data Librarian\
 Center for Research Data & Digital Scholarship\
-University of Colorado Boulder Libraries
+University of Colorado Boulder Libraries\
 [matthew.murray-2@colorado.edu](mailto:matthew.murray-2@colorado.edu)
 
 Liz Novosel (she/hers)\

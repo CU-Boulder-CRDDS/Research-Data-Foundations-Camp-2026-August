@@ -9,9 +9,9 @@ nav_order: 1.504
 
 ## Instructor
 
-Ellery Galvin (she/hers)\
-PhD Student, Applied Mathematics\
-Statistics Specialist, Center for Research Data and Digital Scholarship  
+Aditya (Adi) Ranganath (he/his)\
+Data Librarian\
+Center for Research Data & Digital Scholarship\
 
 ## Introduction
 
