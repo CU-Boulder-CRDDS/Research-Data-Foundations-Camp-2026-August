@@ -26,11 +26,11 @@ This section provides a primer on using R and R Studio for data-based research. 
 
 Please complete the following steps: 
 
-### Software installation
+### Install software
 
 For instructions on how to download R and R Studio, please see the following: [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download).   Install both on your machine.  R is the programming language, which enables your computer to understand R code, and RStudio is an Integrated Development Environment (IDE for short) that provides a user interface specialized for writing R code.
 
-### Session materials
+### Download session materials
 
 Please open the [lesson plan](https://aranganath24.github.io/data_camp_R/data_camp_R_lesson.html) (which contains all of the code we will work through) and have it open for reference during the workshop. Please also download the materials linked below; the directory contains the workshop materials. We will discuss these materials, and set up your R session, at the start of the workshop. 
 
