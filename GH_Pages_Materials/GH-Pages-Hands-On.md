@@ -71,15 +71,15 @@ Under source, switch the branch to main and click save:
 
 Step 4
 {: .label .label-step}
-Go back to the main page of your repository.
+Go back to the main page of your repository and click on the settings cog in the "About" section.
 ![About](../content/img/pages8-1.png)
 
-Step 4
+Step 5
 {: .label .label-step}
 Click the "Use your GitHub Pages website" checkmark and save changes.
 ![Pages URL](../content/img/pages8-2.png)
 
-Step 4
+Step 6
 {: .label .label-step}
 The URL will now show up in the "About" section. Click on the link and make sure it works! Your site should be at [your-user-name].github.io/pages-sample
 ![About with URL](../content/img/pages8-3.png)

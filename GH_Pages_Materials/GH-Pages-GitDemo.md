@@ -20,7 +20,7 @@ This guide roughly follows along with the in-class demonstration. First, we will
 
 Step 1
 {: .label .label-step}  
-From your dashboard on GitHub.com, click the New button.  
+From the "Repositories" tab on your dashboard on GitHub.com, click the New button.  
 ![Click New](../content/img/git1.png)
 
 Step 2
@@ -61,7 +61,7 @@ You should give your repo a license so that others know how they can use your co
 1. GitHub is weird about licenses. There are a lot of other _valid_ licenses that you can (for example) use in advanced search.
 ![screenshot of GitHub's advanced search with the "license" dropdown open](../content/img/GH-License-07.png)
 
-2. Go to Git Hub's [Choose a License page](https://choosealicense.com/]) and choose one of the options at the bottom of the page.
+2. Go to Git Hub's [Choose a License page](https://choosealicense.com/) and choose one of the options at the bottom of the page.
 ![screenshot of "choosealicense.com"](../content/img/GH-License-08.png)
 
 3. Pick a license and then "Copy license text to clipboard" and paste it into your license file or add your repo's URL and hit "enter."
