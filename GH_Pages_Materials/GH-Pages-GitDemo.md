@@ -154,7 +154,7 @@ In GitHub Desktop, click the Clone button:
 
 Step 2
 {: .label .label-step}  
-Select the example repository just created on GitHub.com, select a destination folder, then click the Clone button. 
+Select the example repository you just created on GitHub.com, select a destination folder, then click the Clone button. 
 ![Pages](../content/img/git8.png)  
 
 Step 3
@@ -164,7 +164,7 @@ You can also copy a URL from any public repo and copy it. Click the "Code" butto
 
 ![URL](../content/img/git7-2.png)  
 
-Now you've downloaded the remote repository to your local machine.  
+Now you've downloaded the remote repository to your local machine. Nothing will show up in GitHub Desktop until you change files, but you can click on the button in "View the files of your repository" to open the relevant directory.
 ![branch](../content/img/git10.png)  
 
 ### Committing changes.  
