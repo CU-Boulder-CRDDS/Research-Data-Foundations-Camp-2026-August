@@ -121,6 +121,30 @@ Congrats. You've made an edit then committed it.
 
 ## GitHub Desktop Client
 
+### Connecting GitHub desktop to your account
+
+Step 1
+{: .label .label-step}
+In the taskbar select "File" and then "Options" from the drop down menu. Then click on "Sign into GitHub.com."
+![Settings](../content/img/Git-SignIn-01.png)  
+
+Step 2
+{: .label .label-step}
+This will then give a popup to sign in through your browser. Click on "Continue with browser."
+![Settings](../content/img/Git-SignIn-02.png)  
+
+Step 3
+{: .label .label-step}
+In your web browser click "Continue" to authorize your account. (Make sure you're logged in!)
+![Settings](../content/img/Git-SignIn-03.png)  
+
+Step 4
+{: .label .label-step}
+Click "Open GitHubDesktop.exe" and you will now be signed in and have access to all of your repos.
+![Settings](../content/img/Git-SignIn-04.png)  
+
+Note: GitHub sometimes requires use of a two-factor authenication app to log in.
+
 ### First, we'll clone our repository to the local machine.  
 
 Step 1
