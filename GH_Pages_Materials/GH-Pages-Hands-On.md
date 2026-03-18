@@ -194,6 +194,7 @@ See [Advanced](../GH_Pages_Materials/GH-Pages-Advanced)
 
 You can host files through GitHub Pages. (That's how we share the slides from these workshops.)
 
-To embed a PDF use an iframe tag.
+To embed PDFs into a page using an iframe tag.
+
 	<iframe src="[filename].pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
