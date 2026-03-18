@@ -66,7 +66,24 @@ Step 3
 Under source, switch the branch to main and click save:
 ![branch](../content/img/pages8.png)
 
-### Your site is building! This can take up to a few minutes. Head over to: [your-user-name].github.io/pages-sample in a new browser tab to see the result.
+
+### Your site is building! This can take up to a few minutes.
+
+Step 4
+{: .label .label-step}
+Go back to the main page of your repository.
+![About](../content/img/pages8-1.png)
+
+Step 4
+{: .label .label-step}
+Click the "Use your GitHub Pages website" checkmark and save changes.
+![Pages URL](../content/img/pages8-2.png)
+
+Step 4
+{: .label .label-step}
+The URL will now show up in the "About" section. Click on the link and make sure it works! Your site should be at [your-user-name].github.io/pages-sample
+![About with URL](../content/img/pages8-3.png)
+
 
 ## Playtime! Now let's work through some basic customizations
 
@@ -82,9 +99,9 @@ Open `index.md` and click Edit.
 
 Step 2
 {: .label .label-step}
-Take a minute to modify the content of the homepage. Add some [dummy text](http://fillerama.io/){:target="_blank"} and perhaps a link. Links look like this:
+Take a minute to modify the content of the homepage. Add some [dummy text](https://www.lipsum.com/){:target="_blank"} and perhaps a link. Links look like this:
 ```
-[dummy text](http://fillerama.io/)
+[dummy text](https://www.lipsum.com/)
 ```
 
 ### Now let's talk about Layouts:
@@ -171,3 +188,12 @@ If you're relying on remote themes, your mileage may vary here! Be prepared to t
 **Truth:** If you want to use themes beyond the standard GH Pages themes, it is best to clone a theme's repository, work on it locally, and push it to a new remote repository on your GitHub account. This will give you further control over the look and feel of your site and a lot of flexibility...
 
 See [Advanced](../GH_Pages_Materials/GH-Pages-Advanced)
+
+
+## Files
+
+You can host files through GitHub Pages. (That's how we share the slides from these workshops.)
+
+To embed a PDF use an iframe tag.
+	<iframe src="[filename].pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+
