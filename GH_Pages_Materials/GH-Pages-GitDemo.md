@@ -178,12 +178,16 @@ Step 1
 Back in GitHub Desktop, note that changes to the files are tracked: 
 ![tracking changes](../content/img/git11.png)  
 
+Green + signs are new files.
+Red - signs are deleted files.
+Yellow . files are edited files.
+
 ![tracking changes](../content/img/git12.png)  
 
 
 Step 2
 {: .label .label-step}  
-1. Select the files you want to add commit changes to.  
+1. Select the files you want to add commit changes to. (The ones with check marks next to them.)
 2. Add a commit message  
 3. Click commit  
 ![Commit](../content/img/git13.png)  
