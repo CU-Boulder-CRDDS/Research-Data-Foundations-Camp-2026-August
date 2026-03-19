@@ -160,7 +160,7 @@ categories: science
 
 ### Adjusting Themes  
 
-GitHub Pages supports several [Standard Themes](https://pages.github.com/themes/){:target="_blank"}
+GitHub Pages supports several [Standard Themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll){:target="_blank"}
 
 **Try changing the theme of your site to one of these standard themes.**
 
