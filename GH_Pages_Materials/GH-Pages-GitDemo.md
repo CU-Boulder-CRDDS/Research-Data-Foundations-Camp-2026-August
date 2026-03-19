@@ -274,14 +274,17 @@ Upon completion, the remote repo will now be downloaded to your local machine.
 
 ### Seeing history on github
 
+Step 1
 {: .label .label-step}
 On your repository page on GitHub, click the Code button:  
 ![Cloning](../content/img/GH-Commits-01.png)  
 
+Step 2
 {: .label .label-step}
 You'll now be able to see all the commits that have been made, who made them, when they were made, and the summary submitted with the commit.
 ![Cloning](../content/img/GH-Commits-02.png)  
 
+Step 3
 {: .label .label-step}
 Selecting one of the commits will show you excactly which changes were made.
 ![Cloning](../content/img/GH-Commits-02.png)  
