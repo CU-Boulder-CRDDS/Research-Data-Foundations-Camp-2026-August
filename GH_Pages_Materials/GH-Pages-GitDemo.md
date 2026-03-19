@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. GitHub Desktop and Command Demo
+title: 2. GitHub Desktop and Demo
 parent: GitHub and GitHub Pages
 has_children: false
 nav_order: 2
@@ -114,9 +114,12 @@ Congrats. You've made an edit then committed it.
 
 2. There are lots of templates that include rules to help Git repositories work with  specific programming languages, frameworks, tools, or environments.
 
+3. If you think you might ever make a private GitHub repo into a public one make sure to include everything you wouldn't want to share in the .gitignore file (e.g. datasets, etc.). Or put the things you don't want to share somewhere else.
+
+4. [A collection of useful .gitignore templates](https://github.com/github/gitignore).
+
 ![screenshot of GitHub's "create new file" page with .gitignore menu opened](../content/img/GH-GitIgnore-01.png)
 
-3. [A collection of useful .gitignore templates](https://github.com/github/gitignore).
 
 
 ## GitHub Desktop Client
@@ -178,16 +181,22 @@ Step 1
 Back in GitHub Desktop, note that changes to the files are tracked: 
 ![tracking changes](../content/img/git11.png)  
 
-Green + signs are new files.
-Red - signs are deleted files.
+Green + signs are new files.\
+Red - signs are deleted files\.
 Yellow . files are edited files.
+
+![tracking changes](../content/img/git11-2.png)  
+
 
 ![tracking changes](../content/img/git12.png)  
 
 
 Step 2
 {: .label .label-step}  
-1. Select the files you want to add commit changes to. (The ones with check marks next to them.)
+1. Select the files you want to add commit changes to. (The ones with check marks next to them.) A preview will appear when you select a file that shows additions (green) and deletions) red).
+
+![tracking changes](../content/img/git12.png)  
+
 2. Add a commit message  
 3. Click commit  
 ![Commit](../content/img/git13.png)  
@@ -222,6 +231,26 @@ Now, simply press the Pull Origin button:
 
 Congrats! You've pulled remote changes down to your local repo!  
 
+### Conflicts
+Sometimes when collaborating on projects you'll end up with a conflict when two different people have edited the same part of a file. This is called a "conflict."
+
+Step 1  
+{: .label .label-step}
+The desktop app will tell you when there's a conflict and prevent you from pushing your update until you have resolved the conflict. For any text files you can just open these in a text editor.
+![Conflict1](../content/img/Git-Conflict-01.png)  
+
+Step 2  
+{: .label .label-step}
+The conflict markers are "<<<<<<<," "=======," and ">>>>>>>." Delete or change things until you have what you want the content to look like.
+![Conflict2](../content/img/Git-Conflict-02.png)  
+
+Step 3  
+{: .label .label-step}
+Once the conflicts are resolved you'll be able continue the merge and push the files.
+![Conflict3](../content/img/Git-Conflict-03.png)  
+
+[More info on merging conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy).
+
 ## Command line workflow:  
 
 All of the above can be accomplished with the command line as long as you have Git installed. This is actually the more common workflow. If you're on Windows, the GitBash terminal/command interface comes with Git. On Mac, you can use the terminal app. Here is a basic example:  
@@ -242,6 +271,7 @@ Step 2
 3. Of course, replace the ```username``` and ```repo_name``` with the actual ones.  
 ![Cloning](../content/img/git19.png)  
 Upon completion, the remote repo will now be downloaded to your local machine.  
+
 
 ### Committing and pushing from the command line:  
 
