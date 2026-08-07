@@ -16,8 +16,9 @@ _Slides and other workshop content not yet finalized._
 | --- | ---|----|
 | 9:00-9:10 | [Welcome and Introduction](content/introduction.html)|Aditya Ranganath|
 | 9:10-10:00| [Data Discovery and Licensing](content/data-discovery.html)| Liz Novosel
-| 10:00-10:55| [Data Ethics](content/data-ethics.html)| Nickoal Eichmann-Kalwara and Katerina Allmendinger|
-| 11:00-12:00| [FAIR Data and Publishing](content/data-publishing-CU-scholar.html) | Andrew Johnson|
+| 10:00-10:45| [Data Ethics](content/data-ethics.html)| Nickoal Eichmann-Kalwara and Katerina Allmendinger|
+| 10:45-11:30| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
+| 11:30-12:15| [FAIR Data and Publishing](content/data-publishing-CU-scholar.html) | Andrew Johnson|
 | 12:00-1:00| Lunch|
 | 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White|
 | 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Aditya Ranganath| 

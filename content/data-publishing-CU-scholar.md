@@ -20,7 +20,7 @@ This section provides an overview of resources, requirements, and best practices
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in its own window, please click [here](data-publishing-cu-scholar/DataPublishing_20260319_Cantrell.pdf).
+If you'd like to access the presentation slide-deck in its own window, please click [here](slides/DataPublishing_20260319_Cantrell.pdf).
 
-<iframe src="data-publishing-cu-scholar/DataPublishing_20260319_Cantrell.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="slides/DataPublishing_20260319_Cantrell.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 

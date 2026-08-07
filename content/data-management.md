@@ -18,9 +18,9 @@ This presentation introduces basic concepts, tools, and resources that will help
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in a separate window, please click [here](data_management/ResearchDataManagement-20260318.pdf).
+If you'd like to access the presentation slide-deck in a separate window, please click [here](slides/ResearchDataManagement-20260318.pdf).
 
-<iframe src="data_management/ResearchDataManagement-20260318.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="slides/ResearchDataManagement-20260318.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
 
 ## Additional Resource

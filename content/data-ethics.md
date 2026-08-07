@@ -18,9 +18,9 @@ This presentation will introduce questions and concerns around data ethics.
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in a separate window, please click [here](ethics/DataEthics20260317.pdf).
+If you'd like to access the presentation slide-deck in a separate window, please click [here](slides/DataEthics20260317.pdf).
 
-<iframe src="ethics/DataEthics20260317.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="slides/DataEthics20260317.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
 
 
