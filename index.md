@@ -3,42 +3,34 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# March 2026 Research Data Foundations Camp
+# August 2026 Research Data Foundations Camp
 Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/).
 
 ## Schedule
 
 _Slides and other workshop content not yet finalized._
 
-### Tuesday, March 17th
+### Tuesday, August 18th
 
 | Time | Content|Presenter(s)|
 | --- | ---|----|
-| 10:00-10:25 | [Welcome and Introduction](content/introduction.html)|Aditya Ranganath & Matthew Murray|
-| 10:30-11:15| [Data Discovery and Licensing](content/data-discovery.html)| Liz Novosel
-| 11:15-12:00| [Data Ethics](content/data-ethics.html)| Katerina Allmendinger|
+| 9:00-9:10 | [Welcome and Introduction](content/introduction.html)|Aditya Ranganath|
+| 9:10-10:00| [Data Discovery and Licensing](content/data-discovery.html)| Liz Novosel
+| 10:00-10:55| [Data Ethics](content/data-ethics.html)| Nickoal Eichmann-Kalwara and Katerina Allmendinger|
+| 11:00-12:00| [FAIR Data and Publishing](content/data-publishing-CU-scholar.html) | Andrew Johnson|
 | 12:00-1:00| Lunch|
-| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Ellery Galvin|
+| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White|
 | 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Aditya Ranganath| 
  
-### Wednesday, March 18th
+### Wednesday, August 19th
 
 | Time | Content|Presenter(s)|
 | --- | ---|----|
-| 10:00-11:00| [Data Management](content/data-management.html)|Matthew Murray|
-| 11:00-12:00| Microcredential discussion and work time
+| 9:00-10:00| [Data Management](content/data-management.html)|Matthew Murray|
+| 10:00-12:00| [GitHub](content/git_github.html)| Matthew Murray
 | 12:00-1:00 | Lunch|
-| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Ellery Galvin|
+| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White|
 | 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Aditya Ranganath| 
-
-### Thursday, March 19th
-
-| Time | Content|Presenters(s)|
-| --- | ---|----|
-| 10:00-12:00 | [GitHub](content/git_github.html)| Matthew Murray
-| 12:00-1:00| Lunch |
-| 1:00-2:00| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell
-| 2:00-4:00| [Final Project for microcredential](content/wrap-up/microcredential.html)|
 
 _Actual schedule may vary depending on group needs; all times refer-Mountain Standard Time (MST)_  
 
@@ -50,17 +42,20 @@ Success and Engagement Librarian\
 University of Colorado Boulder Libraries\
 [katerina.allmendinger@colorado.edu](mailto:katerina.allmendinger@colorado.edu)
 
-Melissa Cantrell\
-Scholarly Communication Librarian\
-Assistant Professor\
+Nickoal Eichmann-Kalwara (she/hers)\
+Digital Scholarship Librarian\
 University of Colorado Boulder Libraries\
-[Melissa.Cantrell@Colorado.edu](mailto:Melissa.Cantrell@Colorado.edu)
+[nickoal.eichmann@colorado.edu](mailto:nickoal.eichmann@colorado.edu)
 
-Ellery Galvin (she/hers)\
-PhD Student, Applied Mathematics\
-Statistics Consultant, Center for Research Data & Digital Scholarship\
+Andrew Johnson\
+Director of Data and Scholarly Communication Services\
 University of Colorado Boulder Libraries\
-[elga3498@colorado.edu](mailto:elga3498@colorado.edu)
+[andrew.m.johnson@colorado.edu](mailto:andrew.m.johnson@colorado.edu)
+
+Phil White\
+Earth, Environment & Geospatial Librarian\
+University of Colorado Boulder Libraries\
+[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
 
 Matthew Murray (he/they)\
 Data Librarian\
