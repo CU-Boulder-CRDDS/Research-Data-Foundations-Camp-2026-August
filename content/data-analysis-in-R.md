@@ -2,7 +2,7 @@
 layout: default
 title: Data Analysis in R
 has_children: false
-nav_order: 1.504
+nav_order: 8
 ---
 
 # Data Analysis in R
@@ -12,6 +12,8 @@ nav_order: 1.504
 Aditya (Adi) Ranganath (he/his)\
 Data Librarian\
 Center for Research Data & Digital Scholarship\
+University of Colorado Boulder Libraries\
+[Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
 
 ## Introduction
 

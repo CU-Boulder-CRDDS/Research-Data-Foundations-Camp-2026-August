@@ -2,8 +2,16 @@
 layout: default
 title: Python
 has_children: true
-nav_order: 1.503
+nav_order: 7
 ---
+
+## Instructor
+
+Phil White\
+Earth, Environment & Geospatial Librarian\
+University of Colorado Boulder Libraries\
+[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
+
 
 # Getting started with Python
 

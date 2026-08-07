@@ -2,17 +2,18 @@
 layout: default
 title: Interdisciplinary Tools Tour
 has_children: false
-nav_order: 1.502
+nav_order: 5
 ---
   
 # Interdisciplinary Tools Tour
   
 ## Instructor
 
-Nickoal Eichmann-Kalwara\
+Nickoal Eichmann-Kalwara (she/hers)\
 Digital Scholarship Librarian\
-Center for Research Data and Digital Scholarship\
-University of Colorado Boulder Libraries
+Center for Research Data & Digital Scholarship
+University of Colorado Boulder Libraries\
+[nickoal.eichmann@colorado.edu](mailto:nickoal.eichmann@colorado.edu)
 
 ## Session Synopsis
 

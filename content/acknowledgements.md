@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acknowledgements
-nav_order: 8
+nav_order: 12
 ---
 # Acknowledgements
 

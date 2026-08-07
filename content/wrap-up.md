@@ -2,7 +2,7 @@
 layout: default
 title: Wrap Up and Next Steps
 has_children: true
-nav_order: 1.6
+nav_order: 11
 ---
 
 # Wrap-up and Next Steps

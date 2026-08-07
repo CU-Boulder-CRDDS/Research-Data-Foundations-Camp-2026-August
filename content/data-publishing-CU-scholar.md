@@ -1,18 +1,19 @@
----
+--)
 layout: default
 title: Data Publishing and Repositories
 has_children: false
-nav_order: 1.505
+nav_order: 6
 ---
 
 # Data Publishing and Repositories
 
 ## Instructor
 
-Melissa Cantrell\
-Scholarly Communication Librarian\
+Andrew Johnson\
+Director of Data and Scholarly Communication Services\
 Center for Research Data & Digital Scholarship
-
+University of Colorado Boulder Libraries\
+[andrew.m.johnson@colorado.edu](mailto:andrew.m.johnson@colorado.edu)
 
 ## Session Synopsis
 

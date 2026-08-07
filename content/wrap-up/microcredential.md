@@ -13,14 +13,14 @@ The goal of the Research Data Foundations Camp Microcredential is to provide lea
 
 To earn the microcredential certifying literacy in these areas, learners must complete the following:
 
-* Attend **all three days** of the Research Data Foundations Camp
+* Attend **both days** of the Research Data Foundations Camp
 * Complete a final project (described below) that demonstrates specific knowledge and skills taught at the Research Data Foundations Camp
 
 For more on what microcredentials are, and why you should consider earning one, please see this resource from CU Boulder's [Office of the Registrar](https://www.colorado.edu/registrar/faculty-staff/programs/micro-credentials). 
 
 ## Final Project
 
-**The final project will be due by April 1st, 2026; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
+**The final project will be due by <u>September 1st, 2026</u>; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
 
 Final projects will consist of a portfolio of work hosted on a GitHub repository (you are also encouraged to publish your portfolio materials via GitHub pages; see below). Completed microcredential project portfolios must include the following elements:
 

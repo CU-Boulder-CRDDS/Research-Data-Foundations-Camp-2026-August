@@ -2,7 +2,7 @@
 layout: default
 title: GitHub and GitHub Pages
 has_children: true
-nav_order: 1.507
+nav_order: 10
 ---
 
 # GitHub and GitHub Pages
@@ -11,9 +11,12 @@ Welcome to this Introductory workshop on Git and GitHub Pages. During the worksh
 
 ____
 ### Presenter
+
 Matthew Murray (he/they)\
 Data Librarian\
-Center for Research Data & Digital Scholarship
+Center for Research Data & Digital Scholarship\
+University of Colorado Boulder Libraries\
+[matthew.murray-2@colorado.edu](mailto:matthew.murray-2@colorado.edu)
 
 - Please create a [GitHub account](https://github.com/) right now if you have yet to do so.  
 - Download and install [Git](https://git-scm.com/).  

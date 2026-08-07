@@ -2,15 +2,18 @@
 layout: default
 title: Data Management
 has_children: false
-nav_order: 1.506
+nav_order: 9
 ---
 
 # Data Management
 
 ## Instructor
-Matthew Murray (he/they)
-Data Librarian
-Center for Research Data & Digital Scholarship
+
+Matthew Murray (he/they)\
+Data Librarian\
+Center for Research Data & Digital Scholarship\
+University of Colorado Boulder Libraries\
+[matthew.murray-2@colorado.edu](mailto:matthew.murray-2@colorado.edu)
 
 ## Introduction
 

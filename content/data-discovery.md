@@ -2,16 +2,17 @@
 layout: default
 title: Data Discovery
 has_children: false
-nav_order: 1.501
+nav_order: 3
 ---
 
 # Data Discovery 
 
 ## Instructor
 
-Liz Novosel\
+Liz Novosel (she/hers)\
 Computer Science, Mathematics and Social Sciences Librarian\
-University of Colorado Boulder Libraries
+University of Colorado Boulder Libraries\
+[elizabeth.novosel@colorado.edu](mailto:elizabeth.novosel@colorado.edu)
 
 ## Session Synopsis
 
@@ -26,4 +27,4 @@ If you'd like to access the presentation slide-deck in its own window, please cl
 
 ## Additional Resources
 
-* [Finding Data Libguide](https://libguides.colorado.edu/findingdata/2025/databasics)
+* [Finding Data Libguide](https://libguides.colorado.edu/strategies/data)

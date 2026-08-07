@@ -2,15 +2,23 @@
 layout: default
 title: Data Ethics
 has_children: false
-nav_order: 1.508
+nav_order: 4
 ---
 
 # Data Ethics 
 
-## Instructor
+## Instructors
 
-Katerina Allmendinger (Success and Engagement Librarian)\
-University of Colorado Boulder Libraries
+Katerina Allmendinger (she/hers)\
+Success and Engagement Librarian\
+University of Colorado Boulder Libraries\
+[katerina.allmendinger@colorado.edu](mailto:katerina.allmendinger@colorado.edu)
+
+Nickoal Eichmann-Kalwara (she/hers)\
+Digital Scholarship Librarian\
+Center for Research Data & Digital Scholarship
+University of Colorado Boulder Libraries\
+[nickoal.eichmann@colorado.edu](mailto:nickoal.eichmann@colorado.edu)
 
 ## Session Synopsis
 

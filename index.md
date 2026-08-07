@@ -45,18 +45,15 @@ University of Colorado Boulder Libraries\
 
 Nickoal Eichmann-Kalwara (she/hers)\
 Digital Scholarship Librarian\
+Center for Research Data & Digital Scholarship
 University of Colorado Boulder Libraries\
 [nickoal.eichmann@colorado.edu](mailto:nickoal.eichmann@colorado.edu)
 
 Andrew Johnson\
 Director of Data and Scholarly Communication Services\
+Center for Research Data & Digital Scholarship
 University of Colorado Boulder Libraries\
 [andrew.m.johnson@colorado.edu](mailto:andrew.m.johnson@colorado.edu)
-
-Phil White\
-Earth, Environment & Geospatial Librarian\
-University of Colorado Boulder Libraries\
-[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
 
 Matthew Murray (he/they)\
 Data Librarian\
@@ -79,6 +76,11 @@ Data Librarian\
 Center for Research Data & Digital Scholarship\
 University of Colorado Boulder Libraries\
 [Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
+
+Phil White\
+Earth, Environment & Geospatial Librarian\
+University of Colorado Boulder Libraries\
+[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
 
 Text and image content on this site is released under a [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).\
 Code and scripts on this site is released under a [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
