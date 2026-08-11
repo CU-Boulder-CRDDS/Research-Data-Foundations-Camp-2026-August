@@ -15,7 +15,7 @@ _Slides and other workshop content not yet finalized._
 | Time | Content|Presenter(s)|
 | --- | ---|----|
 | 9:00-9:10 | [Welcome and Introduction](content/introduction.html)|Aditya Ranganath|
-| 9:10-10:00| [Data Discovery and Licensing](content/data-discovery.html)| Liz Novosel
+| 9:10-10:00| [Data Discovery and Licensing](content/data-discovery.html)| Liz Novosel and Chris Pusateri
 | 10:00-10:45| [Data Ethics](content/data-ethics.html)| Nickoal Eichmann-Kalwara and Katerina Allmendinger|
 | 10:45-11:30| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
 | 11:30-12:15| [FAIR Data and Publishing](content/data-publishing-CU-scholar.html) | Andrew Johnson|
@@ -70,6 +70,11 @@ Kim Popetz\
 Event and Outreach Coordinator\
 Center for Research Data and Digital Scholarship\
 University of Colorado Boulder Libraries
+
+Chris Pusateri
+E-Resources Acquisitions & Licensing Librarian
+University of Colorado Boulder Libraries
+[christopher.pusateri@colorado.edu](mailto:christopher.pusateri@colorado.edu)
 
 Aditya (Adi) Ranganath (he/his)\
 Data Librarian\
