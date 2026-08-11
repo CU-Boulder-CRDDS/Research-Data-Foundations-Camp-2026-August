@@ -10,7 +10,7 @@ nav_order: 6
 ## Instructor
 
 Andrew Johnson\
-Director of Data and Scholarly Communication Services\
+Director for CRDDS Operations\
 Center for Research Data & Digital Scholarship
 University of Colorado Boulder Libraries\
 [andrew.m.johnson@colorado.edu](mailto:andrew.m.johnson@colorado.edu)
@@ -21,7 +21,7 @@ This section provides an overview of resources, requirements, and best practices
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in its own window, please click [here](slides/DataPublishing_20260319_Cantrell.pdf).
+If you'd like to access the presentation slide-deck in its own window, please click [here](slides/DataPublishing_20260818_Johnson.pdf).
 
-<iframe src="slides/DataPublishing_20260319_Cantrell.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="slides/DataPublishing_20260818_Johnson.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 

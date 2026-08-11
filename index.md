@@ -50,7 +50,7 @@ University of Colorado Boulder Libraries\
 [nickoal.eichmann@colorado.edu](mailto:nickoal.eichmann@colorado.edu)
 
 Andrew Johnson\
-Director of Data and Scholarly Communication Services\
+Director for CRDDS Operations\
 Center for Research Data & Digital Scholarship
 University of Colorado Boulder Libraries\
 [andrew.m.johnson@colorado.edu](mailto:andrew.m.johnson@colorado.edu)
