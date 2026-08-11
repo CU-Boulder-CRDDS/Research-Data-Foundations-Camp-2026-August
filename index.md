@@ -71,9 +71,9 @@ Event and Outreach Coordinator\
 Center for Research Data and Digital Scholarship\
 University of Colorado Boulder Libraries
 
-Chris Pusateri
-E-Resources Acquisitions & Licensing Librarian
-University of Colorado Boulder Libraries
+Chris Pusateri\
+E-Resources Acquisitions & Licensing Librarian\
+University of Colorado Boulder Libraries\
 [christopher.pusateri@colorado.edu](mailto:christopher.pusateri@colorado.edu)
 
 Aditya (Adi) Ranganath (he/his)\
