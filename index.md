@@ -19,7 +19,7 @@ _Slides and other workshop content not yet finalized._
 | 10:00-10:45| [Data Ethics](content/data-ethics.html)| Nickoal Eichmann-Kalwara and Katerina Allmendinger|
 | 10:45-11:30| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
 | 11:30-12:15| [FAIR Data and Publishing](content/data-publishing-CU-scholar.html) | Andrew Johnson|
-| 12:00-1:00| Lunch|
+| 12:15-1:00| Lunch|
 | 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White|
 | 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Aditya Ranganath| 
  
