@@ -20,7 +20,7 @@ For more on what microcredentials are, and why you should consider earning one, 
 
 ## Final Project
 
-**The final project will be due by <u>September 1st, 2026</u>; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
+**The final project will be due by <u>September 20th, 2026</u>; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
 
 Final projects will consist of a portfolio of work hosted on a GitHub repository (you are also encouraged to publish your portfolio materials via GitHub pages; see below). Completed microcredential project portfolios must include the following elements:
 
@@ -70,11 +70,11 @@ To give you a sense of the nature and scope of a possible project, consider the 
 
 ## Help
 
-If you need help you can attend CRDDS' Interdisciplinary Consultation Hours on [Tuesday, March 24th](https://calendar.colorado.edu/event/interdisciplinary-data-consulting-hours-tuesdays) from 12:00-1:00pm (in-person or virtual) or [Thursday, March 26th](https://calendar.colorado.edu/event/interdisciplinary-data-consulting-hours-thursdays) from 1:00-2:00pm (virtual only). If you plan to attend either of these sessions, please complete the registration forms linked above.
+If you need help, please email to [crdds@colorado.edu](mailto:crdds@colorado.edu). 
 
 ## Turn in Your Final Portfolio Project!
 Use this [Google Survey link](https://docs.google.com/forms/d/e/1FAIpQLScg1zEMAX7CqgimJc53fyBroUagLvjjLPkNMfdR5-8nx0OhcA/viewform?usp=share_link) to turn in your project. In addition to filling out the form, please also email us with a link to the GitHub page or repository that hosts your project materials. 
 
-Please send your email to [aditya.ranganath@colorado.edu](mailto:aditya.ranganath@colorado.edu). 
+Please send your email to [crdds@colorado.edu](mailto:crdds@colorado.edu). 
 
 Thank you!
