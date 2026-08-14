@@ -44,9 +44,10 @@ The goal of this workshop is to get you started on Python. You won't learn every
 
 | Time | Content
 | --- | ---
-| 1:00 | Command line activity
-| 1:15 | Primer: Navigating the file system, basic read/write operations
-| 2:15 | Exploratory Analysis with Pandas, matplotlib, Seaborn 
+| 1:00 | Anaconda Installation
+| 1:30 | Command Line Activity
+| 1:45 | Primer: Navigating the file system, basic read/write operations
+| 2:30 | Exploratory Analysis with Pandas, matplotlib, Seaborn 
 | 3:15 | Numpy? (if time allows)
 | 3:45 | Wrap up
 
