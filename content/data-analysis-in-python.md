@@ -9,7 +9,7 @@ nav_order: 7
 
 Welcome to this foundation workshop on working with data in Python! During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop.
 
-This page: [bit.ly/dcF25py](https://bit.ly/dcF25py)
+This page: [bit.ly/dcF26py](https://bit.ly/dcF26py)
 
 ____
 ### Presenter
