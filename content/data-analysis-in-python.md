@@ -52,4 +52,11 @@ The goal of this workshop is to get you started on Python. You won't learn every
 
 
 ### Slides  
-<iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="slides/Python_Intro.html"></iframe> *Click on the slides then press the F key for full screen*
+<iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="slides/Python_Intro.html"></iframe> *Click on the slides then press the F key for full screen*  
+
+### My Binder site:  
+[https://mybinder.org/v2/gh/CU-Boulder-CRDDS/python_data_camp/HEAD](https://mybinder.org/v2/gh/CU-Boulder-CRDDS/python_data_camp/HEAD)  
+
+
+### GitHub Repository:  
+[https://github.com/CU-Boulder-CRDDS/python_data_camp](https://github.com/CU-Boulder-CRDDS/python_data_camp)
