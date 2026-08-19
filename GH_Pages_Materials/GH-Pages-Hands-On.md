@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. Hands On
+title: 3. Hands On with GitHub Pages
 parent: GitHub and GitHub Pages
 has_children: false
 nav_order: 3
