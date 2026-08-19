@@ -26,8 +26,8 @@ University of Colorado Boulder Libraries\
 ### Goal of this Workshop
 The goal of this workshop is to get familiarized with Git, GitHub, GitHub Pages, and their workflows. We will discuss Git and GitHub, and we will use GitHub Pages as a primer.
 
-CRDDS regularly offers [Git & GitHub workshops](https://www.colorado.edu/crdds/events).
-
+Thursday, October 22, 2026 from 10am-12pm: [Git & GitHub In-Depth](https://calendar.colorado.edu/event/git-github-in-depth-a-short-course-7850).
+ 
 ### Schedule
 
 | Time | Content
@@ -41,9 +41,9 @@ CRDDS regularly offers [Git & GitHub workshops](https://www.colorado.edu/crdds/e
 
 ### Slides  
 
-If you'd like to access the presentation slide-deck in a separate window, please click [here](slides/git_github_20260318.pdf).
+If you'd like to access the presentation slide-deck in a separate window, please click [here](slides/git_github_20260819.pdf).
 
-<iframe src="slides/git_github_20260318.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="slides/git_github_20260819.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
 
 

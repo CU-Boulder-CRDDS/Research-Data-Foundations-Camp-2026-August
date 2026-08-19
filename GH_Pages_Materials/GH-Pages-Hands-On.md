@@ -22,6 +22,12 @@ Step 2
 Click the Fork button to make a copy of this repository on your own GitHub account:
 ![Fork it](../content/img/pages1.png)
 
+Step 3
+{: .label .label-step}
+You can give the repository any name and description you want.
+![Create fork](../content/img/pages1-2.png)
+
+
 Head over to your account to view your fork of this repo.  
 
 ## Edit your _config.yml file  
@@ -63,8 +69,10 @@ Click the Pages tab at bottom left:
 
 Step 3
 {: .label .label-step}
-Under source, switch the branch to main and click save:
+Under source, make sure "Deploy from a branch" is selected. Under Branch, choose "main." Click save.
 ![branch](../content/img/pages8.png)
+
+
 
 
 ### Your site is building! This can take up to a few minutes.
